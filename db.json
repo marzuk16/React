@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marzuk",
+      "email": "marzuk@eatlbd.com",
+      "hobby": "Playing Football"
+    },
+    {
+      "id": 2,
+      "name": "Marzuk Islam",
+      "email": "marzuk.dev@gmail.com",
+      "hobby": "Playing Football"
+    }
+  ]
+}
